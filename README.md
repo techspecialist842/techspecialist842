@@ -1,6 +1,6 @@
 <h1>
-  <img src="" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="https://siddarthareddy.com">Full-Stack Software Engineer</a>!
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <a href="">Full-Stack Software Engineer</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=SIDDARTHAREDDY8" alt="GitHub profile views counter">
 </h1>
 
@@ -9,9 +9,6 @@
 </div>
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building AI-powered apps at the intersection of data and user experience.</div>
-
-
-
 
 <div align="center">
   <picture>
