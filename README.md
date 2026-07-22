@@ -9,6 +9,7 @@
 </div>
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building AI-powered apps at the intersection of data and user experience.</div>
+### <div>🌱 Learning Never Stops 🚀</div>
 
 <div align="center">
   <picture>
