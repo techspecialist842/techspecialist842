@@ -1,6 +1,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="https://siddarthareddy.com">Yevgen Slyudikov</a>!
+  Hi, I'm <a href="https://siddarthareddy.com">Full-Stack Software Engineer</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=SIDDARTHAREDDY8" alt="GitHub profile views counter">
 </h1>
 
