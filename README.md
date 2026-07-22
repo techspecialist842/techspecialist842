@@ -10,6 +10,8 @@
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building AI-powered apps at the intersection of data and user experience.</div>
 ### <div>🌱 Learning Never Stops 🚀</div>
+### <div>📫 How to reach me **techspecialist842@gmail.com**</div>
+### <div>😄 Pronouns: He/His</div>
 
 <div align="center">
   <picture>
