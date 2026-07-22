@@ -1,6 +1,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="https://siddarthareddy.com">Siddartha Reddy</a>!
+  Hi, I'm <a href="https://siddarthareddy.com">Yevgen Slyudikov</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=SIDDARTHAREDDY8" alt="GitHub profile views counter">
 </h1>
 
@@ -13,7 +13,7 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25px" align="center" /> Based in <strong>Ohio, USA</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25px" align="center" /> Based in <strong>Ukraine</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://siddarthareddy.com" target="_blank"><strong>Portfolio</strong></a>
