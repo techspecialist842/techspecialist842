@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  <img src="" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="https://siddarthareddy.com">Full-Stack Software Engineer</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=SIDDARTHAREDDY8" alt="GitHub profile views counter">
 </h1>
@@ -10,27 +10,6 @@
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building AI-powered apps at the intersection of data and user experience.</div>
 
-
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25px" align="center" /> Based in <strong>Ukraine</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://siddarthareddy.com" target="_blank"><strong>Portfolio</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:siddarthareddychinthala@gmail.com"><strong>siddarthareddychinthala@gmail.com</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Currently a <strong>AI Software Engineer @ Airtrek Robotics </strong> & MS CS @ <strong>University of Cincinnati</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Orchestrating AI agents and LLM pipelines to build proactive, intelligent user experiences.
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Scaling production-grade full-stack systems with a focus on type safety, data pipelines, and modern architecture.
-  </li>
-</ul>
 
 
 
