@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/SIDDARTHAREDDY8/SIDDARTHAREDDY8/raw/main/banner.png" alt="GitHub Banner" width="100%" style="max-height: 250px; object-fit: cover;">
-</div>
-
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="https://siddarthareddy.com">Siddartha Reddy</a>!
