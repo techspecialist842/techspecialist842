@@ -21,12 +21,6 @@
   </picture>
 </div>
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddarthareddy9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://siddarthareddy.com)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
-
-
 ## Skills
 
 ### Programming Languages
@@ -166,6 +160,3 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodingRanjith&theme=dark" alt="CodingRanjith" /></p>
-  </div>
