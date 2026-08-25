@@ -8,11 +8,6 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building AI-powered apps at the intersection of data and user experience.</div>
-### <div>🌱 Learning Never Stops 🚀</div>
-### <div>📫 How to reach me **techspecialist842@gmail.com**</div>
-### <div>😄 Pronouns: He/His</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
